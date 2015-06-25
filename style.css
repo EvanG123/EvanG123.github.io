@@ -1,0 +1,22 @@
+body {
+background-color: #3CF0FA;
+color: white;
+font-family:'Oswald', sans-serif;
+}
+
+h1{
+text-align:center;
+}
+
+#banner_image {
+width: 75%;
+display: blockl;
+margin: auto;
+}
+
+
+middle_image {
+width: 30%;
+display: block;
+margin: auto;
+}
